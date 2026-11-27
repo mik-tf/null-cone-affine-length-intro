@@ -11,6 +11,8 @@ date_footer: "YYYY-MM-DD"
 header_title: "How far can light twist a shape?"
 ---
 
+DOI of this text: [doi:10.5281/zenodo.24576187](https://doi.org/10.5281/zenodo.24576187)
+
 This is an introduction to the research paper *Affine length bounds the conformal excursion on a null cone: a sharp focusing inequality* [Per26], by the same author. The paper has the proofs. This note has the idea. No equations are needed to follow it. It makes no claim the paper does not make, and it says which claims are proved and which are only computed.
 
 # A flash of light
@@ -103,6 +105,10 @@ We are grateful to Jason Glowney, whose geometric treatment of light, the light 
 [Glo23] J. Glowney, *Arithmoí: A Study of Mathematical Cohesiveness in Physics and Metaphysics*, Book 1, First Edition, Athene Noctua, 2023.
 
 [Per26] M. Perreault, *Affine length bounds the conformal excursion on a null cone: a sharp focusing inequality*, 2026, Zenodo. [doi:10.5281/zenodo.24572220](https://doi.org/10.5281/zenodo.24572220).
+
+# Use of AI {-}
+
+Claude (Anthropic) was used in November 2026, under the author's direction, for exploratory computation, derivations, code, checks, literature search and drafting.
 
 # Read the research paper {-}
 
