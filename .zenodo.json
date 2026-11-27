@@ -1,0 +1,29 @@
+{
+  "upload_type": "publication",
+  "publication_type": "other",
+  "title": "How far can light twist a shape? An introduction to Affine length bounds the conformal excursion on a null cone: a sharp focusing inequality",
+  "creators": [
+    {
+      "name": "Perreault, Michaël",
+      "orcid": "0009-0003-0017-7658",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "description": "<p>An introduction, without equations, to a research paper on how far the shape of a light cone can be distorted by a gravitational wave, as measured by a sharp bound on the conformal excursion of a null cone in terms of affine length. The paper has the proofs; this note has the idea, and it says which claims are proved and which are only computed.</p>",
+  "keywords": [
+    "null cone",
+    "gravitational memory",
+    "focusing",
+    "hyperbolic plane"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24572220",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ]
+}
