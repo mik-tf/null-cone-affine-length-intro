@@ -10,4 +10,4 @@ Source: [intro.md](intro.md). PDF: [how-far-can-light-twist-a-shape.pdf](how-far
 
 ## Cite as
 
-Perreault, M. How far can light twist a shape? An introduction to Affine length bounds the conformal excursion on a null cone, version 1.0.1. https://github.com/mik-tf/null-cone-affine-length-intro (DOI: [10.5281/zenodo.24576187](https://doi.org/10.5281/zenodo.24576187) (all versions; v1.0 is [10.5281/zenodo.24576188](https://doi.org/10.5281/zenodo.24576188))). See [CITATION.cff](CITATION.cff).
+Perreault, M. How far can light twist a shape? An introduction to Affine length bounds the conformal excursion on a null cone, version 1.0.2. https://github.com/mik-tf/null-cone-affine-length-intro (DOI: [10.5281/zenodo.24576187](https://doi.org/10.5281/zenodo.24576187) (all versions; v1.0 is [10.5281/zenodo.24576188](https://doi.org/10.5281/zenodo.24576188))). See [CITATION.cff](CITATION.cff).
