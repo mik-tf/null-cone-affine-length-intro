@@ -71,7 +71,7 @@ The setting comes from a recent paper by Chandrasekaran [Cha26] on a quantum-gra
 - **The small-excess law.** For a clock only slightly above the minimum, the allowed distortion shrinks in a simple, explicit way.
 - **The whole-cone version.** The bound for all rays together, as described above.
 - **A necessary logarithm.** The source paper bounds the distortion over a patch of the cone, and its bound grows like a logarithm. We prove that this logarithm cannot be avoided: no correct bound on a patch can grow more slowly. This is proved.
-- **A prefactor that looks too loose, by computer.** The same patch bound also carries a large leading factor. Our computations say that factor is too loose by about **9**, **54** and **370 times**, when the small starting size is 0.1, 0.01 and 0.001. This part is **computed only**. It rests on a large-clock law that fits the numbers very well but is not proved, and the paper labels it that way.
+- **A prefactor that is too loose.** The same patch bound also carries a large leading factor. We prove that it is too loose: as the clock budget grows, the ratio of the source paper's bound to the exact one tends to a limit, about **10.6**, **58.4** and **393** when the small starting size is 0.1, 0.01 and 0.001. Over a wide range our computations put that ratio at about **9**, **54** and **370 times**. Only those finite-range values are **computed**, and the paper labels them that way.
 - **A gap in a side check.** The source paper includes a one-loop consistency check. One sentence in it does not follow from the clock alone, and we give an explicit family of cones that shows why. We are careful about what this says. It is a gap in a sentence of a side check. It is **not** a counterexample to the source paper's main finiteness argument, and we do not claim the sentence is false, only that the stated reason is not enough.
 - **Any dimension.** The same bound holds for spacetimes with more than three space dimensions, with a simple change of constant that depends on the dimension.
 - **Matter.** The bound still works when matter is present. Matter that carries energy through the cone uses up part of the clock, and the distortion shares what is left. This is sharp in each of its two parts taken separately. It is not claimed to be sharp for both together, and the paper says so.
@@ -98,14 +98,6 @@ It does not prove anything. If you want to see why the formula is exactly right,
 
 We are grateful to Jason Glowney, whose geometric treatment of light, the light cone and hyperbolic curvature in *Arithmoí*, Book 1, led us to the hyperbolic-plane view of null data on which the paper is built.
 
-# References {-}
-
-[Cha26] V. Chandrasekaran, *An algebraic quantization of gravity from the null cone*, 2026, [arXiv:2611.34924](https://arxiv.org/abs/2611.34924).
-
-[Glo23] J. Glowney, *Arithmoí: A Study of Mathematical Cohesiveness in Physics and Metaphysics*, Book 1, First Edition, Athene Noctua, 2023.
-
-[Per26] M. Perreault, *Affine length bounds the conformal excursion on a null cone: a sharp focusing inequality*, 2026, Zenodo. [doi:10.5281/zenodo.24572220](https://doi.org/10.5281/zenodo.24572220).
-
 # Use of AI {-}
 
 Claude (Anthropic) was used in November 2026, under the author's direction, for drafting, figures and checks.
@@ -119,3 +111,11 @@ Claude (Anthropic) was used in November 2026, under the author's direction, for 
 The full paper, with the proofs, is *Affine length bounds the conformal excursion on a null cone: a sharp focusing inequality*, by Michaël Perreault.
 
 DOI: [doi:10.5281/zenodo.24572220](https://doi.org/10.5281/zenodo.24572220)
+
+# References {-}
+
+[Cha26] V. Chandrasekaran, *An algebraic quantization of gravity from the null cone*, 2026, [arXiv:2611.34924](https://arxiv.org/abs/2611.34924).
+
+[Glo23] J. Glowney, *Arithmoí: A Study of Mathematical Cohesiveness in Physics and Metaphysics*, Book 1, First Edition, Athene Noctua, 2023.
+
+[Per26] M. Perreault, *Affine length bounds the conformal excursion on a null cone: a sharp focusing inequality*, 2026, Zenodo. [doi:10.5281/zenodo.24572220](https://doi.org/10.5281/zenodo.24572220).
